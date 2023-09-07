@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-ci",
+  "version": "1.0.0",
+  "description": "Projeto nodeJs e criar uma integração contínua ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MksS4M/nodeJS-CI.git"
+  },
+  "author": "Kelvin Samezima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MksS4M/nodeJS-CI/issues"
+  },
+  "homepage": "https://github.com/MksS4M/nodeJS-CI#readme",
+  "dependencies": {
+    "jest": "^29.6.4"
+  }
+}
